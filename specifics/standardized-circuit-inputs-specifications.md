@@ -2,7 +2,7 @@
 
 ## Generic Inputs Format
 
-Below is an example of a ZK Circuit configuration:
+Below is an example of circuit inputs:
 
 ```json
 {
