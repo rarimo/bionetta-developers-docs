@@ -1,24 +1,16 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Bionetta](README.md)
 
-## Overview
+## Guides
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [📎 Installation](guides/installation.md)
 
-## Product Guides
+***
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [✨ Training, Compilation and Proving](training-compilation-and-proving.md)
+* [📱 Mobile compilation](mobile-compilation.md)
 
-## Fundamentals
+## Specifics
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [📃 Standardized Circuit Inputs Specifications](specifics/standardized-circuit-inputs-specifications.md)
